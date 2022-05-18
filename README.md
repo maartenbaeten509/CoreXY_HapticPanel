@@ -5,7 +5,8 @@
 The HapticPanel is a system that allows the user can interact with a product in a virtual environment simulated by different types of physical input elements e.g. buttons and sliders. The HapticPanel will position the input elements according to the user's interaction. For the haptic panel to be user friendly, the system must be sufficiently responsive. This paper looks at the option to use CoreXY as an implementation to improve system speed and characteristics. This paper also takes a closer look at different communication protocols for parsing the inputs from the input panel to the Unity framework.
 
 ## Paper information
-Link to the paper: https://dl.acm.org/doi/10.1145/3489849.3489901
+Link to the paper with the new CoreXY HapticPanel: https://dl.acm.org/doi/10.1145/3489849.3489901
+Link to the paper with the former Cartesian HapticPanel: https://dl.acm.org/doi/10.1145/3489849.3489901
 
 ![HapticPanel Poster](https://github.com/maartenbaeten509/CoreXY_HapticPanel/blob/main/Images/poster1.jpg)
 
