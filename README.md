@@ -1,8 +1,8 @@
 # CoreXY_HapticPanel
 [poster_BP_EA-ICT_Baeten.pdf](https://github.com/maartenbaeten509/CoreXY_HapticPanel/files/8714601/poster_BP_EA-ICT_Baeten.pdf)
 
-# HapticPanel: An Open System to Render Haptic Interfaces in Virtual Reality for Manufacturing Industry
-Virtual Reality (VR) allows simulation of machine control panels without physical access to the machine, enabling easier and faster initial exploration, testing, and validation of machine panel designs. However, haptic feedback is indispensable if we want to interact with these simulated panels in a realistic manner. We present HapticPanel, an encountered-type haptic system that provides realistic haptic feedback for machine control panels in VR. To ensure a realistic manipulation of input elements, the user’s hand is continuously tracked during interaction with the virtual interface. Based on which virtual element the user intends to manipulate, a motorized panel with stepper motors moves a corresponding physical input element in front of the user’s hand, enabling realistic physical interaction.
+# CoreXY HapticPanel: An Open System to Render Haptic Interfaces in Virtual Reality for Manufacturing Industry
+The HapticPanel is a system that allows the user can interact with a product in a virtual environment simulated by different types of physical input elements e.g. buttons and sliders. The HapticPanel will position the input elements according to the user's interaction. For the haptic panel to be user friendly, the system must be sufficiently responsive. 
 
 ## Paper information
 Link to the paper: https://dl.acm.org/doi/10.1145/3489849.3489901
