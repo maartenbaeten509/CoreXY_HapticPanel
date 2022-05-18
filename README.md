@@ -7,7 +7,7 @@ Virtual Reality (VR) allows simulation of machine control panels without physica
 ## Paper information
 Link to the paper: https://dl.acm.org/doi/10.1145/3489849.3489901
 
-![HapticPanel Poster](https://github.com/maartenbaeten509/CoreXY_HapticPanel/Images/poster1.jpg?raw=true)
+![HapticPanel Poster](https://github.com/maartenbaeten509/CoreXY_HapticPanel/blob/main/Images/poster1.jpg)
 
 ## Quick overview
 * The files can be found in the 'Platform files' directory.
