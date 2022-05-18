@@ -15,7 +15,7 @@ Link to the paper: https://dl.acm.org/doi/10.1145/3489849.3489901
 * The VR framework software can be found in the 'VR Unity core' directory.
 * The Arduino software and serial parser code can be found in the 'UnityHardwareBridge' directory.
 
-##CoreXY HapticPanel Haptic Platform:
+## CoreXY HapticPanel Haptic Platform:
 ![HapticPanel Platform](https://github.com/maartenbaeten509/CoreXY_HapticPanel/blob/main/Images/CoreXY_HapticPanel.jpg)
 Picture showing the Simulated Reality Haptic Platform for which the build file and instructions are shared in this repository.
 
