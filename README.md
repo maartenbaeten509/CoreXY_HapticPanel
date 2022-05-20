@@ -8,7 +8,7 @@ The HapticPanel is a system that allows the user can interact with a product in 
 * Link to the paper with the new CoreXY HapticPanel: https://dl.acm.org/doi/10.1145/3489849.3489901
 * Link to the paper with the former Cartesian HapticPanel: https://dl.acm.org/doi/10.1145/3489849.3489901
 
-![HapticPanel Poster](https://github.com/maartenbaeten509/CoreXY_HapticPanel/blob/main/Images/poster1.jpg)
+![HapticPanel Poster](https://github.com/maartenbaeten509/CoreXY_HapticPanel/blob/main/Images/PosterCoreXY.jpg)
 
 ## Quick overview
 * The files can be found in the 'Platform files' directory.
